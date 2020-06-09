@@ -1,10 +1,6 @@
 # Raptors Championship Memory Game
 
-This is a memory game built in tribute to the 2019 NBA champions, the Toronto Raptors. Click [HERE](https://raptors-memory-game.netlify.app/) for a live version of this app.
-
-## Getting Started
-
-Open the index.html file in your browser to play.
+This is a memory game built with vanilla JavaScript in tribute to the 2019 NBA champions, the Toronto Raptors. Click [HERE](https://raptors-memory-game.netlify.app/) for a live version of this app.
 
 ## Screenshots
 
