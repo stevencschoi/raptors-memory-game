@@ -376,6 +376,3 @@ img {
 .card.flipped {
   transform: rotateY(180deg);
 }
-
-@media (max-width: 1100px) {
-}
